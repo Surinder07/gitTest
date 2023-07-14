@@ -1,5 +1,5 @@
-public class tCode {
-    blic static vd main(String[] args) {
+public class TestCode {
+    public static void main(String[] args) {
 
 
     }
